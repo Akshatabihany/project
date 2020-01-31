@@ -6,6 +6,17 @@ ul {
   width: 600px;
   text-align: center;
 }
+/* #web{
+  padding-left: 25%;
+}
+#iot
+{
+  padding-left: 3%;
+}
+#app
+{
+  padding-left:50%;
+} */
 li {
   display: table-cell;
   position: relative;
@@ -90,9 +101,4 @@ a:hover:after {
                 filter: grayscale(0);
             }
         }
-
-
-
-
-
 }
